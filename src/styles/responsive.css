@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+
+  .ant-layout-header {
+
+    padding: 0 0px !IMPORTANT;
+  }
+
+  .section {
+    padding: 40px 0;
+  }
+}
